@@ -1,0 +1,6 @@
+gene_id,expression_level,condition
+BRCA1,3.4,treated
+TP53,0.8,control
+EGFR,5.2,treated
+MYC,1.1,control
+PTEN,4.7,treated
